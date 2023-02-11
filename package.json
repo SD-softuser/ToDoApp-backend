@@ -5,7 +5,6 @@
   "main": "Server.js",
   "scripts": {
     "start": "node Server.js",
-    "watch": "nodemon Server.js"
   },
   "keywords": [],
   "author": "",
