@@ -4,7 +4,9 @@
   "description": "",
   "main": "Server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node Server.js",
+    "watch": "nodemon Server.js"
   },
   "keywords": [],
   "author": "",
